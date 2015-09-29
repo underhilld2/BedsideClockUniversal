@@ -128,3 +128,4 @@ BedsideClockUniversal/obj/x86/Debug/priconfig.xml
 BedsideClockUniversal/obj/x86/Debug/ProjectArchitectures.txt
 BedsideClockUniversal/obj/x86/Debug/qualifiers.txt
 BedsideClockUniversal/obj/x86/Debug/ResourceHandlingTask.state
+*.suo
